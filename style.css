@@ -1,3 +1,41 @@
+h1 {
+ color:#ffffff;
+ font-family:Gothic №60; 
+}
+
+p {
+color:#ffffff;
+font-family:ITC Avant Garde Std Md;
+width:55%;
+}
+
+body {
+margin-left:170px;
+background-color:#374151;
+}
+
+b {
+font-size:12px;
+font-family:Gothic №60;
+color:#ffffff;
+}
+
+a:link {
+  text-decoration: none;
+  color:#7fdbca;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
 
 /* The sidebar menu */
 .sidenav {
@@ -17,6 +55,7 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
+  font-family:Gothic №60;
   color: #818181;
   display: block;
 }
@@ -36,6 +75,4 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-
 }
-
