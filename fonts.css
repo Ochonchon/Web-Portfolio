@@ -1,13 +1,13 @@
 @font-face {
     font-family: Gothic №60;
     src: url("Gothic60-Regular.otf") format('opentype');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: ITC Avant Garde Std Md;
     src: url("../../Web-Portfolio/itc-avant-garde-std-md.ttf") format('truetype');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 }
