@@ -1,6 +1,6 @@
 h1 {
  color:#ffffff;
- font-family:Gothic №60; 
+ font-family:Gothic No60; 
 }
 
 p {
@@ -75,4 +75,5 @@ a:active {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+
 }
