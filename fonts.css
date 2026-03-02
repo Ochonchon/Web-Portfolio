@@ -1,6 +1,6 @@
 @font-face {
     font-family: Gothic №60;
-    src: url("../../Web-Portfolio/Gothic60-Regular.otf") format('truetype');
+    src: url("Gothic60-Regular.otf") format('opentype');
     font-weight: bold;
     font-style: normal;
 }
