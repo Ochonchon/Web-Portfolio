@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Gothic No60';
-    src: url('css/fonts/Gothic60-Regular.woff2') format('woff2');
+    src: url('fonts/Gothic60-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'ITC Avant Garde Std Md';
-    src: url('css/fonts/ITCAvantGardeStd-Md.woff2') format('woff2');
+    src: url('fonts/ITCAvantGardeStd-Md.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -95,4 +95,5 @@ a:active {
   .sidenav a {font-size: 18px;}
 
 }
+
 
